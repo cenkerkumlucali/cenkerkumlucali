@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Cenker and I'm Junior Developer.I really enjoy learning languages and framework like C#,Angular and other.
+I'm Cenker and I'm Junior Developer.I really enjoy learning languages and framework like C#,Html,TypeScript and other.
 
 
 
