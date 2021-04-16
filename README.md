@@ -4,7 +4,7 @@ I'm Cenker and I'm Junior Developer.I really enjoy learning languages and framew
 
 
 
-<h3 align="center">İlgilendiğim Alanlar</h3>
+<h3 align="center"> I am interested in working with</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="30" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
