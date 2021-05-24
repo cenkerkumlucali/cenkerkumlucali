@@ -1,6 +1,6 @@
 ### Hi everybody 💻
 
-I'm Cenker and I'm Junior Developer.I'm working on <a href="https://github.com/cenkerkumlucali/E-Commerce-Frontend">E-Commerce-Frontend</a>.I really enjoy learning languages and framework like C#,Java,Html,TypeScript and other.
+I'm Cenker and I'm Junior Developer.I'm working on <a href="https://github.com/cenkerkumlucali/E-Commerce-Frontend">E-Commerce-Frontend</a>.I really enjoy learning languages and framework like C#,Java,Html,Css,TypeScript and other.
 
 
 
