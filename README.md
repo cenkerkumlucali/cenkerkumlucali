@@ -13,7 +13,7 @@ I'm Cenker and I'm Junior Developer.I'm working on <a href="https://github.com/c
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="css3" width="30" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a> </p>
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cenkerkumlucali&layout=compact" alt="shely"/></p>
+
 
 
 
