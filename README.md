@@ -15,6 +15,7 @@ I'm Cenker and I'm Junior Developer.I'm working on <a href="https://github.com/c
 </p>
 
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cenkerkumlucali&layout=compact" alt="shely"/></p>
 
 
 
