@@ -13,7 +13,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=cenkerkumlucali)
-[![Github](https://img.shields.io/github/followers/cenkerkumlucali?label=Follow&style=social)](https://github.com/cenkerkumlucali)  
+
 
 
 
