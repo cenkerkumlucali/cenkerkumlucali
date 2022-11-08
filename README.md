@@ -13,6 +13,7 @@
   <a target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic" width="40" height="40"/> </a> 
    <a target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/> </a>
     <a target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+ <a target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="amazon-web-service" width="60" height="40"/> </a>
   </p>
 
 
