@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cenker Kumlucalı</h1>
-<h4 align="center">The projects i'm working on right now <a href="https://github.com/cenkerkumlucali/e-commerce-dotnet">e-commmerce-dotnet</a> and <a href="https://github.com/cenkerkumlucali/e-commerce-client">e-commmerce-client</a></h4>
+<h4 align="center">The project i'm working on right now <a href="https://github.com/cenkerkumlucali/study-io-backend">study-io-backend</a></h4>
 
 
  
