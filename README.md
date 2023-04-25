@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Cenker Kumlucalı</h1>
-<h4 align="center">The project i'm working on right now <a href="https://github.com/cenkerkumlucali/study-io-backend">study-io-backend</a></h4>
+<h1 align="center">I'm Cenker Kumlucalı and i'm 21</h1>
+<h4>🚀 I'm currently working on an education application that aims to be the best in Turkey! The app will provide high-quality educational content for learners of all ages, covering a wide range of subjects from STEM to humanities.</h4>
+<h4>📚 With this app, I hope to revolutionize the way education is delivered in Turkey, by making it more accessible, engaging, and effective. Whether you're a student, a teacher, or a lifelong learner, this app will have something for you!</h4>
+<h4>🌟 The app will feature interactive lessons, quizzes, assessments, and other tools to help learners track their progress and improve their skills. It will also include social features, such as forums and discussion boards, where learners can connect with each other and share their knowledge.</h4>
+
+
 
 
  
