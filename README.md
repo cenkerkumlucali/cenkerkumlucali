@@ -3,7 +3,10 @@
 <h4>📚 With this app, I hope to revolutionize the way education is delivered in Turkey, by making it more accessible, engaging, and effective. Whether you're a student, a teacher, or a lifelong learner, this app will have something for you!</h4>
 <h4>🌟 The app will feature interactive lessons, quizzes, assessments, and other tools to help learners track their progress and improve their skills. It will also include social features, such as forums and discussion boards, where learners can connect with each other and share their knowledge.</h4>
 
-
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+ <a href="https://linkedin.com/in/cenkerkumlucali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cenkerkumlucali" height="30" width="40" /></a>
+<a href="https://medium.com/@cenkerkumlucali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cenkerkumlucali" height="30" width="40" /></a>
 
 
  
