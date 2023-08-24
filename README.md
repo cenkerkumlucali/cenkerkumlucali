@@ -3,14 +3,14 @@
 <h4>📚 With this app, I hope to revolutionize the way education is delivered in Turkey, by making it more accessible, engaging, and effective. Whether you're a student, a teacher, or a lifelong learner, this app will have something for you!</h4>
 <h4>🌟 The app will feature interactive lessons, quizzes, assessments, and other tools to help learners track their progress and improve their skills. It will also include social features, such as forums and discussion boards, where learners can connect with each other and share their knowledge.</h4>
  <h1 align="center">📕 Latest Blog Posts</h1>
- 
+ <a href="https://medium.com/@cenkerkumlucali0/elasticsearch-3-c-ile-derinlemesine-entegrasyon-84ab3fef043e" target="blank">- Elasticsearch #3: C# ile Derinlemesine Entegrasyon</a><hr>
  <a href="https://medium.com/@cenkerkumlucali0/microservice-saga-deseni-dağıtık-sistemlerde-i̇şlem-yönetiminin-sırrı-534cd56fe248?source=user_profile---------0----------------------------" target="blank">- Microservice — Saga Deseni: Dağıtık Sistemlerde İşlem Yönetiminin Sırrı</a><hr>
 
   <a href="https://medium.com/@cenkerkumlucali0/elasticsearch-2-temel-konseptler-ve-i̇lk-adımlar-816c7d3dca94?source=user_profile---------1----------------------------" target="blank">- Elasticsearch #2 — Temel Konseptler ve İlk Adımlar</a><hr>
   
   <a href="https://medium.com/@cenkerkumlucali0/flutterda-ekran-boyutlarına-göre-tasarım-screenutil-kütüphanesi-8a656419fca4?source=user_profile---------2----------------------------" target="blank">- Flutter’da Ekran Boyutlarına Göre Tasarım: ScreenUtil Kütüphanesi</a><hr>
   <a href="https://medium.com/@cenkerkumlucali0/c-ta-yield-anahtar-kelimesinin-sihirli-dünyası-d5155a06e9f3?source=user_profile---------3----------------------------" target="blank">- C#’ta “yield” Anahtar Kelimesinin Sihirli Dünyası 🎩✨</a><hr>
-    <a href="https://medium.com/@cenkerkumlucali0/dead-letter-exchange-dlx-ve-dead-letter-queue-dlq-ile-derinlemesine-rabbitmq-6d6519268aa2?source=user_profile---------4----------------------------" target="blank">- Dead Letter Exchange (DLX) ve Dead Letter Queue (DLQ) ile Derinlemesine RabbitMQ</a><hr>
+    
  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
