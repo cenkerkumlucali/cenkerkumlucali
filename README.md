@@ -25,14 +25,14 @@
  <h1 align="center">📕 Latest Blog Posts</h1>
 
 
- 
+   <a href="https://medium.com/@cenkerkumlucali0/c-ta-singleton-tasarım-deseni-derinlemesine-i̇ncelikler-cf56bf2f17e4" target="blank">- C#’ta Singleton Tasarım Deseni: Derinlemesine İncelikler</a><hr>
  <a href="https://medium.com/@cenkerkumlucali0/elasticsearch-3-c-ile-derinlemesine-entegrasyon-84ab3fef043e" target="blank">- Elasticsearch #3: C# ile Derinlemesine Entegrasyon</a><hr>
  <a href="https://medium.com/@cenkerkumlucali0/microservice-saga-deseni-dağıtık-sistemlerde-i̇şlem-yönetiminin-sırrı-534cd56fe248?source=user_profile---------0----------------------------" target="blank">- Microservice — Saga Deseni: Dağıtık Sistemlerde İşlem Yönetiminin Sırrı</a><hr>
 
   <a href="https://medium.com/@cenkerkumlucali0/elasticsearch-2-temel-konseptler-ve-i̇lk-adımlar-816c7d3dca94?source=user_profile---------1----------------------------" target="blank">- Elasticsearch #2 — Temel Konseptler ve İlk Adımlar</a><hr>
   
   <a href="https://medium.com/@cenkerkumlucali0/flutterda-ekran-boyutlarına-göre-tasarım-screenutil-kütüphanesi-8a656419fca4?source=user_profile---------2----------------------------" target="blank">- Flutter’da Ekran Boyutlarına Göre Tasarım: ScreenUtil Kütüphanesi</a><hr>
-  <a href="https://medium.com/@cenkerkumlucali0/c-ta-yield-anahtar-kelimesinin-sihirli-dünyası-d5155a06e9f3?source=user_profile---------3----------------------------" target="blank">- C#’ta “yield” Anahtar Kelimesinin Sihirli Dünyası 🎩✨</a><hr>
+
     
  
 
