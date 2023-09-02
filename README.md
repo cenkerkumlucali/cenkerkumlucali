@@ -21,16 +21,7 @@
     <a target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
  <a target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="amazon-web-service" width="60" height="40"/> </a>
   </p>
- 
- <h1 align="center">📕 Latest Blog Posts</h1>
 
-
-   <a href="https://medium.com/@cenkerkumlucali0/c-ta-singleton-tasarım-deseni-derinlemesine-i̇ncelikler-cf56bf2f17e4" target="blank">- C#’ta Singleton Tasarım Deseni: Derinlemesine İncelikler</a><hr>
- <a href="https://medium.com/@cenkerkumlucali0/elasticsearch-3-c-ile-derinlemesine-entegrasyon-84ab3fef043e" target="blank">- Elasticsearch #3: C# ile Derinlemesine Entegrasyon</a><hr>
- <a href="https://medium.com/@cenkerkumlucali0/microservice-saga-deseni-dağıtık-sistemlerde-i̇şlem-yönetiminin-sırrı-534cd56fe248?source=user_profile---------0----------------------------" target="blank">- Microservice — Saga Deseni: Dağıtık Sistemlerde İşlem Yönetiminin Sırrı</a><hr>
-
- 
- 
 </div>
 
 
