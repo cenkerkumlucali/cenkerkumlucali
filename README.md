@@ -3,10 +3,8 @@
 
 
 <h4>🌟 The app will feature interactive lessons, quizzes, assessments, and other tools to help learners track their progress and improve their skills. It will also include social features, such as forums and discussion boards, where learners can connect with each other and share their knowledge.</h4>
- <h3 align="center">Connect with me:</h3>
+
 <p align="center">
- <a href="https://www.linkedin.com/in/cenker-kumlucalı-294a05203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cenkerkumlucali" height="30" width="40" /></a>
-<a href="https://medium.com/@cenkerkumlucali0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cenkerkumlucali" height="30" width="40" /></a>
 
 
 <h2 align="center">Languages and Tools:</h2>
