@@ -1,6 +1,6 @@
 <h1 align="center">I'm Cenker Kumlucalı and i'm 21 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 <h4>🚀 I'm currently working on an education application that aims to be the best in Turkey! The app will provide high-quality educational content for learners of all ages, covering a wide range of subjects from STEM to humanities.</h4>
-<h4>📚 With this app, I hope to revolutionize the way education is delivered in Turkey, by making it more accessible, engaging, and effective. Whether you're a student, a teacher, or a lifelong learner, this app will have something for you!</h4>
+
 
 <h4>🌟 The app will feature interactive lessons, quizzes, assessments, and other tools to help learners track their progress and improve their skills. It will also include social features, such as forums and discussion boards, where learners can connect with each other and share their knowledge.</h4>
  <h3 align="center">Connect with me:</h3>
@@ -29,14 +29,7 @@
  <a href="https://medium.com/@cenkerkumlucali0/elasticsearch-3-c-ile-derinlemesine-entegrasyon-84ab3fef043e" target="blank">- Elasticsearch #3: C# ile Derinlemesine Entegrasyon</a><hr>
  <a href="https://medium.com/@cenkerkumlucali0/microservice-saga-deseni-dağıtık-sistemlerde-i̇şlem-yönetiminin-sırrı-534cd56fe248?source=user_profile---------0----------------------------" target="blank">- Microservice — Saga Deseni: Dağıtık Sistemlerde İşlem Yönetiminin Sırrı</a><hr>
 
-  
-  <a href="https://medium.com/@cenkerkumlucali0/flutterda-ekran-boyutlarına-göre-tasarım-screenutil-kütüphanesi-8a656419fca4?source=user_profile---------2----------------------------" target="blank">- Flutter’da Ekran Boyutlarına Göre Tasarım: ScreenUtil Kütüphanesi</a><hr>
-
-    
  
-
-
-
  
 </div>
 
