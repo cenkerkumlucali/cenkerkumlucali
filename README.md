@@ -1,4 +1,4 @@
-<h1 align="center">I'm Cenker Kumlucalı and i'm 21 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
+<h1 align="center">I'm Cenker Kumlucalı and i'm 22 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 <h4>🚀 I'm currently working on an education application that aims to be the best in Turkey! The app will provide high-quality educational content for learners of all ages, covering a wide range of subjects from STEM to humanities.</h4>
 
 
